@@ -1,4 +1,4 @@
-# 
+# Código aberto cross-margin trading bot plugins para Mac OS | Novo cross-margin trading bot plugins para PC Windows. Com pools de liquidez DEX e segurança de chave privada — otimizado para máximo desempenho em cada plataforma.
 
 
 
